@@ -1,0 +1,14 @@
+    "blocks": 1141741,
+    "currentblocksize": 0,
+    "currentblocktx": 0,
+    "difficulty": 21806.20901031489,
+    "errors": "",
+    "genproclimit": -1,
+    "localsolps": 0,
+    "networksolps": 1435436,
+    "networkhashps": 1435436,
+    "pooledtx": 168,
+    "testnet": false,
+    "chain": "main",
+    "generate": false
+}
